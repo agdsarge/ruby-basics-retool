@@ -62,7 +62,7 @@ def format_campus_location(campus)
 end
 
 def format_subject
-  print "#{format_campus_location(CAMPUS)} Newsletter - #{DATE}\n\n"
+  print "#{format_campus_location(CAMPUS)} Newsletter - #{DATE}\n"
 end
 
 def format_footer(campus)
